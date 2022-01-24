@@ -16,6 +16,9 @@
 		EE295E0A278B563600658991 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EE295E08278B563600658991 /* LaunchScreen.storyboard */; };
 		EE295E15278B563600658991 /* NavigationExampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE295E14278B563600658991 /* NavigationExampleTests.swift */; };
 		EE295E20278B563600658991 /* NavigationExampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE295E1F278B563600658991 /* NavigationExampleUITests.swift */; };
+		EE295E2E278B56C100658991 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE295E2D278B56C100658991 /* SecondViewController.swift */; };
+		EE295E30278B5E6C00658991 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE295E2F278B5E6C00658991 /* ThirdViewController.swift */; };
+		EE295E32278B60A500658991 /* FourthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE295E31278B60A500658991 /* FourthViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +54,9 @@
 		EE295E1B278B563600658991 /* NavigationExampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NavigationExampleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EE295E1F278B563600658991 /* NavigationExampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationExampleUITests.swift; sourceTree = "<group>"; };
 		EE295E21278B563600658991 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EE295E2D278B56C100658991 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		EE295E2F278B5E6C00658991 /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
+		EE295E31278B60A500658991 /* FourthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourthViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +110,9 @@
 				EE295DFA278B563400658991 /* AppDelegate.swift */,
 				EE295DFC278B563400658991 /* SceneDelegate.swift */,
 				EE295DFE278B563400658991 /* ViewController.swift */,
+				EE295E2D278B56C100658991 /* SecondViewController.swift */,
+				EE295E2F278B5E6C00658991 /* ThirdViewController.swift */,
+				EE295E31278B60A500658991 /* FourthViewController.swift */,
 				EE295E00278B563400658991 /* Main.storyboard */,
 				EE295E06278B563600658991 /* Assets.xcassets */,
 				EE295E08278B563600658991 /* LaunchScreen.storyboard */,
@@ -264,6 +273,9 @@
 				EE295DFF278B563400658991 /* ViewController.swift in Sources */,
 				EE295DFB278B563400658991 /* AppDelegate.swift in Sources */,
 				EE295E05278B563400658991 /* NavigationExample.xcdatamodeld in Sources */,
+				EE295E32278B60A500658991 /* FourthViewController.swift in Sources */,
+				EE295E2E278B56C100658991 /* SecondViewController.swift in Sources */,
+				EE295E30278B5E6C00658991 /* ThirdViewController.swift in Sources */,
 				EE295DFD278B563400658991 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
